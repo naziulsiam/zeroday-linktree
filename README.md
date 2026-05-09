@@ -40,9 +40,7 @@ A sleek, responsive, and cyber-themed Linktree-style page built with **vanilla H
 
 ## 🌐 Live Demo
 👉 [https://lsbu-zeroday.netlify.app/](https://lsbu-zeroday.netlify.app/)  
-*(Replace with your actual URL after deployment)*
 
----
 
 ## 🚀 Features
 
@@ -56,8 +54,6 @@ A sleek, responsive, and cyber-themed Linktree-style page built with **vanilla H
 - ✅ WhatsApp group integration  
 - ✅ Rules & Regulations PDF support  
 - ✅ Zero dependencies — fast and lightweight  
-
----
 
 ## 📁 Project Structure
 
