@@ -1,0 +1,199 @@
+<div align="center">
+
+```bash
+$ whoami
+> LSBU-ZeroDay — Student Cybersecurity Society
+$ location
+> London South Bank University, UK
+$ status
+> ACTIVE ✅
+```
+
+# 🔐 LSBU-ZeroDay
+
+[![Live](https://img.shields.io/badge/LIVE-lsbu--zeroday.netlify.app-00ff41?style=for-the-badge&logo=netlify&logoColor=black)](https://lsbu-zeroday.netlify.app/)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_LINK)
+[![License](https://img.shields.io/badge/License-MIT-00ff41?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-00ff41?style=for-the-badge)]()
+
+> *"The quieter you become, the more you are able to hear."* — Kali Linux
+
+**We don't just study cybersecurity. We live it.**
+
+</div>
+
+---
+
+## 🖥️ Initialising...
+
+```
+[████████████████████] 100%
+
+> Loading LSBU-ZeroDay...
+> Establishing secure connection...
+> Bypassing firewalls...
+> Access granted. Welcome, Hacker. 💚
+```
+
+---
+
+## 🔍 cat mission.txt
+
+```
+We are LSBU-ZeroDay — a student-led cybersecurity society
+at London South Bank University.
+
+Our mission:
+  → Make cybersecurity accessible to EVERYONE
+  → Build real skills through hands-on learning
+  → Create a community that lifts each other up
+  → Hack ethically. Defend fearlessly.
+
+No gatekeeping. No elitism. Just pure curiosity.
+```
+
+---
+
+## 📅 Upcoming Events
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  📍 Wednesday 13th May 2026 • 11:00 – 13:00                 │
+│  Internship Briefing & Summer Activities Launch             │
+│  KW115 — Faraday Wing, Nelson Haden Lecture Theatre         │
+│  → Summer internship guidance                               │
+│  → ZeroDay Discord server launch                            │
+│  → Summer activities plan reveal                            │
+│  STATUS: UPCOMING ⚡                                         │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## ⚡ Features
+
+```python
+features = {
+    "design"     : "HTB-inspired cyber aesthetic 🖤💚",
+    "loader"     : "Terminal-style hacker loading screen",
+    "responsive" : "Mobile & desktop optimised",
+    "team"       : "Core team profiles & society mission",
+    "events"     : "Live status badge & event announcements",
+    "community"  : "Discord + WhatsApp integration",
+    "docs"       : "Society guidelines PDF",
+    "stack"      : "Pure HTML + CSS + JS — zero dependencies",
+}
+```
+
+---
+
+## 📂 ls -la
+
+```
+zeroday-linktree/
+├── 📁 images/              → Society & team photos
+│   └── 📁 team/            → Core team profile pictures
+├── 📄 index.html           → Main Linktree page
+├── 📄 about.html           → About Us & team profiles
+├── 📄 style.css            → Cyber-themed styles
+├── 📄 script.js            → Terminal loader + Easter egg 🥚
+├── 📄 guidelines.pdf       → Society rules & regulations
+└── 📄 README.md            → You are here
+```
+
+---
+
+## 🚀 git clone && deploy
+
+```bash
+# Clone the repo
+git clone https://github.com/naziulsiam/zeroday-linktree.git
+cd zeroday-linktree
+
+# Open locally
+open index.html
+
+# Deploy to Netlify
+# 1. Push to GitHub
+# 2. Connect repo on netlify.com
+# 3. Build command  → (leave empty)
+# 4. Publish dir    → (leave empty)
+# 5. Hit deploy 🚀
+```
+
+---
+
+## 🛠️ Contributing
+
+```bash
+# Step 1 — Fork & clone
+git clone https://github.com/YOUR_USERNAME/zeroday-linktree.git
+
+# Step 2 — Create your branch
+git checkout -b feature/your-update
+
+# Step 3 — Make changes & commit
+git add .
+git commit -m "feat: your update here"
+
+# Step 4 — Push & open PR
+git push origin feature/your-update
+```
+
+> ⚠️ Never push directly to `main` — always open a Pull Request for review!
+
+---
+
+## 👾 Core Team 2025/26
+
+```
+┌─────────────────────────────────────────────────────┐
+│  LSBU-ZeroDay Core Team                             │
+├──────────────────────────┬──────────────────────────┤
+│  Ali Siam                │  President               │
+│  Trushi Patel            │  Vice President          │
+│  Mridula Afroz           │  Secretary               │
+│  Md Mahfuz               │  Treasurer               │
+│  Kimberly                │  Technical Lead          │
+│  Prithika                │  Assistant Technical Lead│
+│  Md Rahman               │  PR & Media Lead         │
+│  Md Riad                 │  Event Coordinator       │
+│  Md Rakib                │  Community Lead          │
+└──────────────────────────┴──────────────────────────┘
+```
+
+---
+
+## 📜 License
+
+MIT — free to fork and adapt for your own student society.
+*Credit LSBU-ZeroDay if you do. We'll notice.* 👀
+
+---
+
+<div align="center">
+
+```
+> sudo make-the-world-safer
+> Password: ************
+> Access granted. 💚
+```
+
+**Defending the future, one zero-day at a time.**
+
+© 2026 [LSBU-ZeroDay](https://lsbu-zeroday.netlify.app/) • London South Bank University
+
+*Built with 💚 by the ZeroDay Team*
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
